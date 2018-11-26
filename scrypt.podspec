@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "scrypt"
-s.version          = "1.8"
+s.version          = "1.8.1"
 s.summary          = "Scrypt implementation in vanilla Swift for iOS ans macOS"
 
 s.description      = <<-DESC
